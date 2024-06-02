@@ -1,0 +1,13 @@
+[package]
+name = 'FlashloanTest'
+version = '1.0.0'
+
+[addresses]
+flashloan_test = "09f85897f830d193f15d7232fa1c714daae3bf0215d7ad19d0c8afb7f35afb9e"
+
+[dependencies.Liquidswap]
+local = "../../"
+
+[dependencies.TestCoins]
+git = 'https://github.com/pontem-network/test-coins.git'
+rev = 'v0.1.0'
