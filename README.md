@@ -1,6 +1,8 @@
 # Liquidswap
 
-**Liquidswap** is AMM protocol for [Aptos](https://aptosfoundation.org/) blockchain. 
+**Liquidswap** the revolutionary Automated Market Maker (AMM) powered by Pontem on the [Aptos](https://aptosfoundation.org/) blockchain.
+Liquidswap brings a new wave of security and performance to the world of digital asset trading.
+By being built on Move, it ensures maximum security for users, with additional audits further boosting its reliability. 
 
 ## Documentation
 
